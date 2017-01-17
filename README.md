@@ -4,6 +4,7 @@ This repository contains a selection of the data -- and the data-processing scri
 
 Project Date | Title | Folder
 ---|---------|-------------
+Jannuary 17, 2017 | South African Fatal Crashes | `fatal-crashes`
 July 10, 2016 | South African Viewership | `sa-viewership`
 May, 2016 | From Data to Product: Sell your phone | `sellphone`
 March, 2016 | South African Tech Salaries | `satechsalaries`
